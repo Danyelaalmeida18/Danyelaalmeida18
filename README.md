@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Danny!
+## Bem-vindo(a) ao perfil da Danny Almeida!
 
  <div>
    <a href="https://github.com/Danyelaalmeida18">
@@ -12,6 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
  
   
@@ -27,7 +28,7 @@
 
 <a href="mailto:danyelaalmeida1811@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/danielaalmeida18" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+<a href="https://twitter.com/DANNYELACRUZ?t=sq5c50NTaY-sSZRJvb7jqA&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
  
   ![Snake animation](https://github.com/Danyelaalmeida18/Danyelaalmeida18/blob/output/github-contribution-grid-snake.svg)
