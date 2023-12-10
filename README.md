@@ -1,5 +1,19 @@
 ## Bem-vindo(a) ao perfil da Danny Almeida!
 
+
+- 🤩 Apaixonada por tecnologias;
+- 🌱 Estudando linguagem Python e IA;
+- 👩‍💻 Conhecimento em Banco de dados relacionais, postgresql, SQL Server, Pandas;
+- 👩‍💻 Conhecimento em HTML, CSS, JavaScript, React, Bootstrap, Design Web;
+- 💡 Empreendedora;
+
+--------------------------------------------------------------------------------
+- 📚 Amo livros;
+- 🎬 Filmes | Séries;
+- 🎧 Músicas;
+
+
+
  <div>
    <a href="https://github.com/Danyelaalmeida18">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danyelaalmeida18&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
