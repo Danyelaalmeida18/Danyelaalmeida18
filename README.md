@@ -1,9 +1,10 @@
 ## Bem-vindo(a) ao perfil da Danny Almeida!
 
 
-- 🤩 Apaixonada por tecnologias;
-- 🌱 Estudando linguagem Python e IA;
-- 👩‍💻 Conhecimento em Banco de dados relacionais, postgresql, SQL Server, Pandas;
+- 🤩 Amo tecnologias;
+- 🌱 Estudando linguagem Python;
+- 🌱 Cursando Pós em Engenharia de Software;
+- 👩‍💻 Conhecimento em Banco de Dados Relacionais, Postgresql, SQL Server, Pandas;
 - 👩‍💻 Conhecimento em HTML, CSS, JavaScript, React, Bootstrap, Design Web;
 - 💡 Empreendedora;
 
