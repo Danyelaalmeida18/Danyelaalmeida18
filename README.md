@@ -3,7 +3,7 @@
 
 - 🤩 Amo tecnologias;
 - 🌱 Estudando linguagem Python;
-- 🌱 Graduanda em Engenharia de Software na Universidade pela Estácio;
+- 🌱 Graduanda em Engenharia de Software pela Universidade Estácio;
 - 🌱 Graduanda em Ciência,
 Tecnologia e Inovação pela UFBA;
 - 👩🏻‍🎓 Pós Graduada em Engenharia de Software;
