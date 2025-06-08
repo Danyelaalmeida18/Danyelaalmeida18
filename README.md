@@ -2,13 +2,12 @@
 
 
 - 🤩 Amo tecnologias;
-- 🌱 Estudando linguagem Python;
-- 🌱 Graduanda em Engenharia de Software pela Universidade Estácio;
-- 🌱 Graduanda em Ciência,
-Tecnologia e Inovação pela UFBA;
+- 🌱 Estudando linguagem Python, Data Science e IA;
+- 🌱 Graduanda em Engenharia de Software (ESTÁCIO);
+- 🌱 Graduanda em Ciência, Tecnologia e Inovação (UFBA);
 - 👩🏻‍🎓 Pós Graduada em Engenharia de Software;
-- 👩🏻‍🎓 Graduada em Gestão da Qualidade;
-- 👩‍💻 Conhecimento em Banco de Dados Relacionais, Postgresql, SQL Server, Pandas;
+- 👩🏻‍🎓 Graduada em Gestão da Qualidade(UNIFACS);
+- 👩‍💻 Conhecimento em Análise de Dados, Postgresql, SQL Server, Pandas;
 - 👩‍💻 Conhecimento em HTML, CSS, JavaScript, React, Bootstrap, Design Web;
 - 💡 Empreendedora;
 
